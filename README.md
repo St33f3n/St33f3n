@@ -8,7 +8,7 @@ I'm a backend developer from the Munich region with a passion for streamlined ar
 
 - **quickshell Desktop Environment**:  Building an individualized desktop experience (collaboration project)
 - **Homelab Evolution**: Transitioning to cluster architecture with Proxmox & NixOS
-- **Project Wiki**: Documenting my technical journey and experiments at [wiki.organiccircuitlab.com](https://wiki.organiccircuitlab.com)
+- **Project Wiki**: Documenting my technical journey and experiments at [https://wiki.organiccircuitlab.com](https://wiki.organiccircuitlab.com/en/im_working_on_it)
 
 ## 🛠️ Featured Project: OpenController
 
