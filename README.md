@@ -1,5 +1,3 @@
-# Backend Developer & Efficiency Engineer
-
 I'm a backend developer from the Munich region with a passion for streamlined architectures that respect user privacy. My approach combines systematic engineering with hands-on problem-solving, whether I'm developing automation pipelines or prototyping hardware solutions.
 
 **Currently:** Seeking hybrid remote opportunities in backend development, DevOps, or system engineering while working on a customized desktop environment with quickshell and evolving my homelab into a proper cluster setup.
