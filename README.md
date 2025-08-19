@@ -1,4 +1,4 @@
-# Stefan - Backend Developer & Efficiency Engineer
+# Backend Developer & Efficiency Engineer
 
 I'm a backend developer from the Munich region with a passion for streamlined architectures that respect user privacy. My approach combines systematic engineering with hands-on problem-solving, whether I'm developing automation pipelines or prototyping hardware solutions.
 
