@@ -17,7 +17,7 @@ I'm a backend developer from the Munich region with a passion for streamlined ar
 ## 💻 Tech Stack & Interests
 
 **Languages:** Rust, Python, C++, SQL  
-**Favorites:** State Machines, MQTT
+**Favorites:** State Machines, MQTT 
 **Focus Areas:** Backend Development, DevOps, Embedded Systems, Automation  
 **Tools:** Docker, NixOS,SQLite, Proxmox, WebDAV, Various IoT Protocols
 
