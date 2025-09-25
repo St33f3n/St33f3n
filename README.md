@@ -1,6 +1,5 @@
 I'm a backend developer from the Munich region with a passion for streamlined architectures that respect user privacy. My approach combines systematic engineering with hands-on problem-solving, whether I'm developing automation pipelines or prototyping hardware solutions.
 
-**Currently**: Seeking hybrid remote opportunities in backend development, DevOps, or system engineering while developing energy automation solutions and advancing my homelab infrastructure.
 
 ## What I'm Working On
 
